@@ -1,11 +1,14 @@
 ## Bailey Wall
 
-San Francisco, CA | 704-467-6383 | be.stone.wall@gmail.com | LinkedIn
+San Francisco, CA
+704-467-6383
+be.stone.wall@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bailey-e-wall/)
 
 ### Education
 
-Duke University | Class of 2017
-BS - Computer Science; Religious Studies | Honors: Cum Laude
+Duke University - Class of 2017
+BS - Computer Science; Religious Studies (Honors: Cum Laude)
 
 ### Work Experience
 
@@ -13,9 +16,21 @@ BS - Computer Science; Religious Studies | Honors: Cum Laude
 
 June 2020 - July 2024
 
-* Managed a team of 6 engineers and 2 designers responsible for building an Association Management System (member dues processing, system of record, online community and events platform) and worked with sales / customer success to decide what to build
-    
-* Designed and developed a website builder for Association Admins
+* Managed a team of 6 engineers and 2 designers responsible for building an Association Management System (dues processing, system of record, online community + events)
+
+* Routinely met with company leadership (CEO, sales, customer success) and solicited customer feedback to determine and adjust the product roadmap
+
+* Redefined association and user-level privacy controls to better suit customer needs and to allow for more flexible community access controls
+
+* Expanded the events offering to support external platforms and in-person venues, as well as custom registration requirements
+
+* Designed, implemented, and deployed many core features on a MongoDB, GraphQL (Apollo), Next.js, React, Heroku stack: a post feed, a website builder for Association Admins, and a navigation overhaul to support the new websites
+
+* Led the codebase migration from single-tenant to multi-tenant and enabled customer success to create customers (one click) rather than engineers (~2 hour task)
+
+* Removed all instances of uploading files via the api server and replaced them with uploading files to S3 with pre-signed URLs
+
+* Introduced scalars into our GraphQL api for date, rich text, and money types
 
 #### [Zume Pizza](https://en.wikipedia.org/wiki/Zume) (Full-stack Software Engineer)
 
@@ -48,3 +63,9 @@ October 2017 - June 2019
 * Documented a standard system to support various IXL mobile app version requirements
     
 * Organized monthly team building social events for a team of 25+ engineers
+
+### Skills
+
+Fluent: Typescript, Node.js, React, MongoDB
+Proficient: Docker, PostgreSQL, Kafka, Next.js, Java
+Familiar: GCP, Helm, K8s
