@@ -1,13 +1,13 @@
 ## Bailey Wall
 
-San Francisco, CA
-704-467-6383
-be.stone.wall@gmail.com
+San Francisco, CA<br/>
+704-467-6383<br/>
+be.stone.wall@gmail.com<br/>
 [LinkedIn](https://www.linkedin.com/in/bailey-e-wall/)
 
 ### Education
 
-Duke University - Class of 2017
+Duke University - Class of 2017<br/>
 BS - Computer Science; Religious Studies (Honors: Cum Laude)
 
 ### Work Experience
@@ -66,6 +66,6 @@ October 2017 - June 2019
 
 ### Skills
 
-Fluent: Typescript, Node.js, React, MongoDB
-Proficient: Docker, PostgreSQL, Kafka, Next.js, Java
+Fluent: Typescript, Node.js, React, MongoDB<br/>
+Proficient: Docker, PostgreSQL, Kafka, Next.js, Java<br/>
 Familiar: GCP, Helm, K8s
