@@ -12,29 +12,41 @@ BS - Computer Science; Religious Studies (Honors: Cum Laude)
 
 ### Work Experience
 
-#### [Tradewing](https://www.tradewing.com) (Director of Engineering, Tech Lead, Full-stack Software Engineer)
+#### [Tradewing](https://www.tradewing.com)
 
-June 2020 - July 2024
+San Francisco, CA
 
-* Managed a team of 6 engineers and 2 designers responsible for building an Association Management System (dues processing, system of record, online community + events)
+Director of Engineering: December 2022 - July 2024
 
-* Routinely met with company leadership (CEO, sales, customer success) and solicited customer feedback to determine and adjust the product roadmap
+* Managed the company’s product and engineering team (6 engineers + 2 designers) and planned biweekly sprints to meet product and technical milestones
 
-* Redefined association and user-level privacy controls to better suit customer needs and to allow for more flexible community access controls
+* Routinely met with leadership (CEO, sales, customer success) and solicited customer feedback to determine the company-wide product and technical roadmap
 
-* Expanded the events offering to support external platforms and in-person venues, as well as custom registration requirements
+* Managed technical vendor contract negotiations; identified and implemented cost-reduction opportunities
 
-* Designed, implemented, and deployed many core features on a MongoDB, GraphQL (Apollo), Next.js, React, Heroku stack: a post feed, a website builder for Association Admins, and a navigation overhaul to support the new websites
+* Led design and implementation of a new Association Management System product line (dues processing, system of record, online community, and virtual live events)
 
-* Led the codebase migration from single-tenant to multi-tenant and enabled customer success to create customers (one click) rather than engineers (~2 hour task)
+* Expanded the company's virtual events offering to support external platforms and in-person venues, as well as custom registration requirements
 
-* Removed all instances of uploading files via the api server and replaced them with uploading files to S3 with pre-signed URLs
+* Served as sole post-acquisition liaison to onboard a new technical team to the product
 
-* Introduced scalars into our GraphQL api for date, rich text, and money types
+Tech Lead: March 2022 - December 2022
 
-#### [Zume Pizza](https://en.wikipedia.org/wiki/Zume) (Full-stack Software Engineer)
+* Redefined product areas and multiple levels of privacy controls to better suit customer needs and to allow for more flexible community access controls
 
-June 2019 - April 2020
+* Built a website builder optimized for nontechnical Association Admins that seamlessly blended association-specific webpages into the Tradewing product
+
+Full-stack Software Engineer: June 2020 - March 2022
+
+* Designed, implemented, and deployed many core features on a MongoDB, GraphQL (Apollo), Next.js, React, Heroku stack: a social media-style post feed, a product for association vendors (a brand new user persona), and a navigation overhaul to support customer websites
+
+* Led a project to enable customer success to create customers (one click) rather than engineers (~2 hour task) by migrating the codebase from single-tenant to multi-tenant and configuring Cloudfront reverse proxies to support custom domains
+
+#### [Zume Pizza](https://en.wikipedia.org/wiki/Zume)
+
+San Francisco, CA
+
+Full-stack Software Engineer: June 2019 - April 2020
 
 * Transitioned a microservice architecture from single-tenant to multi-tenant by enforcing tenant-specific service interactions, database schemas, and Apigee proxies
     
@@ -48,9 +60,11 @@ June 2019 - April 2020
     
 * Shortened customer feedback loops by starting business unit-wide weekly status updates
 
-#### [IXL Learning](https://www.ixl.com/) (Full-stack Software Engineer)
+#### [IXL Learning](https://www.ixl.com/)
 
-October 2017 - June 2019
+San Mateo, CA
+
+Full-stack Software Engineer: October 2017 - June 2019
 
 * Rearranged skills hierarchies on responsive website pages by working with impacted teams to restructure IXL’s Skills database model
 
@@ -61,8 +75,6 @@ October 2017 - June 2019
 * Implemented a system to record website loading times in countries around the world using WebPageTest
     
 * Documented a standard system to support various IXL mobile app version requirements
-    
-* Organized monthly team building social events for a team of 25+ engineers
 
 ### Skills
 
