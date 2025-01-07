@@ -1,22 +1,22 @@
-## Bailey Wall
+# Bailey Wall
 
 San Francisco, CA<br/>
 704-467-6383<br/>
 be.stone.wall@gmail.com<br/>
 [LinkedIn](https://www.linkedin.com/in/bailey-e-wall/)
 
-### Education
+## Education
 
 Duke University - Class of 2017<br/>
 BS - Computer Science; Religious Studies (Honors: Cum Laude)
 
-### Work Experience
+## Work Experience
 
-#### [Tradewing](https://www.tradewing.com)
+### [Tradewing](https://www.tradewing.com)
 
 San Francisco, CA
 
-Director of Engineering: December 2022 - July 2024
+**Director of Engineering: December 2022 - July 2024**
 
 * Managed the company’s product and engineering team (6 engineers + 2 designers) and planned biweekly sprints to meet product and technical milestones
 
@@ -30,23 +30,23 @@ Director of Engineering: December 2022 - July 2024
 
 * Served as sole post-acquisition liaison to onboard a new technical team to the product
 
-Tech Lead: March 2022 - December 2022
+**Tech Lead: March 2022 - December 2022**
 
 * Redefined product areas and multiple levels of privacy controls to better suit customer needs and to allow for more flexible community access controls
 
 * Built a website builder optimized for nontechnical Association Admins that seamlessly blended association-specific webpages into the Tradewing product
 
-Full-stack Software Engineer: June 2020 - March 2022
+**Full-stack Software Engineer: June 2020 - March 2022**
 
 * Designed, implemented, and deployed many core features on a MongoDB, GraphQL (Apollo), Next.js, React, Heroku stack: a social media-style post feed, a product for association vendors (a brand new user persona), and a navigation overhaul to support customer websites
 
 * Led a project to enable customer success to create customers (one click) rather than engineers (~2 hour task) by migrating the codebase from single-tenant to multi-tenant and configuring Cloudfront reverse proxies to support custom domains
 
-#### [Zume Pizza](https://en.wikipedia.org/wiki/Zume)
+### [Zume Pizza](https://en.wikipedia.org/wiki/Zume)
 
 San Francisco, CA
 
-Full-stack Software Engineer: June 2019 - April 2020
+**Full-stack Software Engineer: June 2019 - April 2020**
 
 * Transitioned a microservice architecture from single-tenant to multi-tenant by enforcing tenant-specific service interactions, database schemas, and Apigee proxies
     
@@ -60,11 +60,11 @@ Full-stack Software Engineer: June 2019 - April 2020
     
 * Shortened customer feedback loops by starting business unit-wide weekly status updates
 
-#### [IXL Learning](https://www.ixl.com/)
+### [IXL Learning](https://www.ixl.com/)
 
 San Mateo, CA
 
-Full-stack Software Engineer: October 2017 - June 2019
+**Full-stack Software Engineer: October 2017 - June 2019**
 
 * Rearranged skills hierarchies on responsive website pages by working with impacted teams to restructure IXL’s Skills database model
 
@@ -76,7 +76,7 @@ Full-stack Software Engineer: October 2017 - June 2019
     
 * Documented a standard system to support various IXL mobile app version requirements
 
-### Skills
+## Skills
 
 Fluent: Typescript, Node.js, React, MongoDB<br/>
 Proficient: Docker, PostgreSQL, Kafka, Next.js, Java<br/>
