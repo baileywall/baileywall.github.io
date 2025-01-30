@@ -1,6 +1,6 @@
 # Bailey Wall
 
-San Francisco, CA<br/>
+Durham, NC<br/>
 704-467-6383<br/>
 be.stone.wall@gmail.com<br/>
 [LinkedIn](https://www.linkedin.com/in/bailey-e-wall/)
