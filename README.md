@@ -5,12 +5,25 @@ San Francisco, CA<br/>
 be.stone.wall@gmail.com<br/>
 [LinkedIn](https://www.linkedin.com/in/bailey-e-wall/)
 
-## Education
-
-Duke University - Class of 2017<br/>
-BS - Computer Science; Religious Studies (Honors: Cum Laude)
-
 ## Work Experience
+
+### [Rosetta Stone](https://www.rosettastone.com)
+
+Morrisville, NC
+
+**Senior Software Engineer: March 2025 - present**
+
+* Rescued an analytics product 12+ months behind schedule as technical lead; re-scoped MVP and delivered production launch within 3 months, onboarding initial enterprise customers
+
+* Integrated analytics platform across a ~50 microservice system (ingesting events from 7 via RabbitMQ), replacing a legacy system that was a major customer pain point
+
+* Built QA function from zero by training a new QA analyst, defining test strategy, and driving regression coverage across engineering; enabled a smooth production rollout with minimal issues
+
+* Primary architect for GraphQL API and Java service layer for a revamped consumer product; designed data model powering 150K+ learning activities across 25+ languages
+
+* Led migration of proprietary content from XML-based layouts to structured JSON, defining transformation strategy and extracting only data required for runtime systems
+
+* Refactored and standardized React architecture (Next.js + React Native) using component composition and hooks; reduced bugs and improved development velocity across a 12-engineer team
 
 ### [Tradewing](https://www.tradewing.com)
 
@@ -48,13 +61,13 @@ San Francisco, CA
 
 **Full-stack Software Engineer: June 2019 - April 2020**
 
-* Transitioned a microservice architecture from single-tenant to multi-tenant by enforcing tenant-specific service interactions, database schemas, and Apigee proxies
-    
-* Developed a 100%-tested Typescript Kafka client wrapper around noderdkafka with data format enforcement via the Schema Registry
-    
-* Retrofitted a Typescript service responsible for customer notifications to use our Zume Kafka wrapper in place of RabbitMQ
-    
-* Re-wrote CI/CD microservice pipelines for both Jenkins and Codefresh
+* Led multi-tenant transformation of a microservice ecosystem, enforcing tenant isolation across services, databases, and API gateway (Apigee)
+
+* Built a TypeScript Kafka client abstraction over node-rdkafka, standardizing event-driven communication and enforcing schema validation via Schema Registry
+
+* Migrated a critical notification service from RabbitMQ to Kafka, improving reliability and aligning with company-wide event streaming architecture
+
+* Re-architected CI/CD pipelines across Jenkins and Codefresh, improving deployment consistency and reducing operational overhead
     
 * Improved Engineering, Product, and Design processes by leading a group which implemented engineer’s-choice project assignment
     
@@ -78,6 +91,13 @@ San Mateo, CA
 
 ## Skills
 
-Fluent: Typescript, Node.js, React, MongoDB<br/>
-Proficient: Docker, PostgreSQL, Kafka, Next.js, Java<br/>
-Familiar: GCP, Helm, K8s
+Languages: TypeScript, Java, Python<br/>
+Frameworks: GraphQL, React, Next.js, Node.js<br/>
+Data: MongoDB, PostgreSQL, Kafka<br/>
+Infrastructure: Docker, Kubernetes, GCP, Helm
+
+
+## Education
+
+Duke University - Class of 2017<br/>
+BS - Computer Science; Religious Studies (Honors: Cum Laude)
